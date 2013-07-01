@@ -1,4 +1,4 @@
-sowich
+Тестовый Readme
 ======
 
-My first repository
+Мой первый репозиторий
